@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+  <title>Notes on intro to HTML</title>
+</head>
+<body>
+
+<div>
+  <div>
+    <p><b>What is HTML?</b></p>
+    <p>HTML (Hyper Text Markup Language) is the programming language used to display information on the internet.</p>
+    <p>It is made up of <em>elements</em>, which are enclosed in between bracketed  <em>tags</em>. The contents of the tags define how the elements are displayed by a web browser.</p>
+  </div>
+  
+  <br>
+  
+  <div>
+    <b>Different kinds of tags</b>
+    <P>There are many different kinds of tags, image tags, anchor tags, div tags, etc. But tags can be separated into two main categories: <em><b>inline tags</b></em>, and <em><b>box tags.</b></em></P>
+    <p><b>Box Tags:</b> Create a box of "whitespace" around the element," with the exception of the <em>break</em> tag, which simply skips to the next line.</p>
+    <p><b>Inline Tags:</b> Don't create any whitespace around contents of element.</p> 
+  </div>
+  <div>
+  
+  <br>
+  
+  <div>
+      <p><b>Stylin' in HTML</b></p>
+      <p>Additional options for syling your HTML documents are available using CSS properties. CSS stands for <em>"Cascading Style Sheets,"</em> and allow the programmer to assign different classes and ID's to HTML Elements which will project pre-defined properties from the CSS onto said elements'</p>
+    
+  </div>
+  
+  <br>
+  
+  <div>
+    <p><b>Strucure of An HTML Document</b></p>
+    <p>An HTML document is broken up into sections. 
+    <li>First you have the <em>"Doctype"</em> tag, defining the file as an HTML document.</li>
+    <li>Second you have the HTML tag itself, which will house the remaining elements of your code.</li>
+    <li>Inside you have the <em>head</em> tag which is where the page title and other Metadata are stored, such as CSS and Javascript. </li>
+    <li>After that, the <em>body</em> tag. This tag is where the contents of the website will go in your document.</li>
+    </p>
+  </div>
+
+  
+  </div>
+</body>
+  
+</HTML>
